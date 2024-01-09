@@ -23,12 +23,14 @@ To create a directory called CommandsLinux:
 
 4. ```mkdir CommandsLinux```
 
+
+![Linux-mkdir](mkdir-command.png)
+
 To create a directory called unixcommands:
 
 5. ```mkdir unixcommands```
 
-![Linux-mkdir](mkdir-command.png)
-
+![Linux-mkdir2](mkdir2-command.png)
 
 The mkdir command accepts many options, such as:
 
