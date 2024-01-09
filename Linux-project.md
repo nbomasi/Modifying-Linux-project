@@ -14,19 +14,20 @@ mkdir Music
 
 ```
 
-To make a new directory called Songs inside Music, use this command
+To make a new directory called Songs inside Music:
 
-2. ```markdown
-mkdir Music/Songs
-
-```
-
-3. ```markdown
-mkdir Documents
+2. ```mkdir Music/Songs```
 
 ```
+To create a directory called documents:
 
-4. mkdir CommandsLinux
+3. ```mkdir Documents```
+
+To create a directory called CommandsLinux
+4. ```mkdir CommandsLinux```
+
+To create a directory called unixcommands
+5. ```mkdir unixcommsnds```
 
 ![Linux-mkdir](mkdir-command.png)
 
