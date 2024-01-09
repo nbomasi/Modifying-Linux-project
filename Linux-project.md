@@ -1,5 +1,5 @@
 8. mkdir command:
-Use the mkdir command to create one or multiple directories at once and set permissions for each of them. The user executing this command must have the privilege to make a new folder in the parent directory, or they may receive a permission denied error.
+Use the mkdir command to create one or multiple directories at once and set permissions for each of them. The user executing this command must have the privilege to make a new folder in the parent directory, or they may receive a permission denied error. Also note that Linux commands are case-sensitive (A is a).
 
 Here’s the basic syntax:
 
@@ -24,7 +24,7 @@ To create a directory called CommandsLinux:
 
 To create a directory called unixcommands:
 
-5. ```mkdir unixcommsnds```
+5. ```mkdir unixcommands```
 
 ![Linux-mkdir](mkdir-command.png)
 
