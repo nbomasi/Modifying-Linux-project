@@ -4,9 +4,9 @@ Use the mkdir command to create one or multiple directories at once and set perm
 
 Here’s the basic syntax:
 
-```markdown
-mkdir [option] directory_name
-```
+
+```mkdir [option] directory_name```
+
 For example, you want to create a directory called Music:
 
 1. ```mkdir Music```
@@ -15,7 +15,7 @@ To make a new directory called Songs inside Music:
 
 2. ```mkdir Music/Songs```
 
-To create a directory called documents:
+To create a directory called Documents:
 
 3. ```mkdir Documents```
 
